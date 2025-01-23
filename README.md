@@ -25,15 +25,11 @@
 ---
 ## 📌 주요 기능
 #### 로그인
-- DB값 검증
+- 자체 로그인 고정
 - 로그인 시 메인 페이지 이동
 #### 메인 페이지
-- 실시간데이터 송출 디자인
-- 컴포넌트 Hover 시 확대(CSS)
-- Chat GPT API 연동
-#### 상세 페이지
-- 팝업 디자인
-- 실시간 데이터 송출 디자인
-- ON, OFF 토클
+- 아두이노 데이터값 실시간데이터 송출
+- 스마트판 연동 관리 ON, OFF 토클
+- Chat GPT API 개발 및 연동
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
